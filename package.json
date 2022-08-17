@@ -1,0 +1,28 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string-length.js",
+  "dependencies": {
+    "jest": "^28.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "babel-jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter1907/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peter1907/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Peter1907/testing-practice#readme"
+}
